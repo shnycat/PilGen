@@ -1,4 +1,4 @@
-# Pilgan Generator
+# PilGen - Pilihan Ganda Generator
 Apakah Anda seorang guru yang sedang membuat soal pilihan ganda untuk pengujian siswa Anda? atau Anda adalah seorang pembuat soal profesional yang bekerja untuk membuat soal Ujian Nasional atau soal untuk olimpiade?
 
 Maka program yang dibuat dengan bahasa C ini sangat tepat dipergunakan untuk menentukan kunci jawaban dari soal ujian yang telah Anda buat!
