@@ -3,7 +3,7 @@ Apakah Anda seorang guru yang sedang membuat soal pilihan ganda untuk pengujian 
 
 Maka program yang dibuat dengan bahasa C ini sangat tepat dipergunakan untuk menentukan kunci jawaban dari soal ujian yang telah Anda buat!
 
-Buatlah sebanyak mungkin soal pilihan ganda baik untuk ujian harian, semester, tengah semester, kenaikan kelas, maupun kelulusan tanpa bingung meletakkan dimana saja Anda harus meletakkan pilihan yang benar.
+Buatlah sebanyak mungkin soal pilihan ganda baik untuk ujian harian, semester, tengah semester, kenaikan kelas, maupun kelulusan tanpa bingung menentukan dimana saja Anda harus meletakkan pilihan yang benar.
 
 ## Cara Instal
 Instal program ini menggunakan `gcc` maupun `clang`.
