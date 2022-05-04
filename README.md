@@ -6,8 +6,11 @@ Maka program yang dibuat dengan bahasa C ini sangat tepat dipergunakan untuk men
 Buatlah sebanyak mungkin soal pilihan ganda baik untuk ujian harian, semester, tengah semester, kenaikan kelas, maupun kelulusan tanpa bingung menentukan dimana saja Anda harus meletakkan pilihan yang benar.
 
 ## Cara Instal
-Instal program ini menggunakan `gcc` maupun `clang`.
+Clone repositori ini menggunakan `git` atau download file `PilGen.c` dan _compile_ program ini menggunakan `gcc` maupun `clang`.
+
+Contoh menggunakan `curl`:
 ```sh
+$ curl -LO 'https://raw.githubusercontent.com/shnycat/PilGen/main/PilGen.c'
 $ clang PilGen.c -o PilGen
 # atau
 $ gcc Pilgen.c -o PilGen
